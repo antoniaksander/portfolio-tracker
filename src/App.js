@@ -1,12 +1,12 @@
 /** @format */
 
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>FU</h1>
+      <h1>FU, su ema</h1>
+      <p>gkmsdds</p>
     </div>
   );
 }
